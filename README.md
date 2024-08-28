@@ -1,2 +1,2 @@
 # testnet-airdrop-app-winnerlist.net-
-airdrop app for winnerlist project
+[winnerlist.net](https://winnerlist.net/)
